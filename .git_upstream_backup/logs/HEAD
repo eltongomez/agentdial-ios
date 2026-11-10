@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 7d506a3d890fab3edead640770a70fb9605242c2 eltongomez <eltongslima@hotmail.com> 1794329485 -0300	clone: from https://github.com/BelledonneCommunications/linphone-iphone.git
+7d506a3d890fab3edead640770a70fb9605242c2 7d506a3d890fab3edead640770a70fb9605242c2 eltongomez <eltongslima@hotmail.com> 1794335481 -0300	checkout: moving from master to main
+7d506a3d890fab3edead640770a70fb9605242c2 a44f6341990d0cc5967e2edab670849746e2bb90 eltongomez <eltongslima@hotmail.com> 1794335481 -0300	commit: feat: customizacao soberana AgentDial para iOS com GitHub Actions CI/CD

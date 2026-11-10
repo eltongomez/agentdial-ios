@@ -1,0 +1,16 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "upstream"]
+	url = https://github.com/BelledonneCommunications/linphone-iphone.git
+	fetch = +refs/heads/master:refs/remotes/upstream/master
+[branch "master"]
+	remote = upstream
+	merge = refs/heads/master
+[remote "origin"]
+	url = https://github.com/eltongomez/agentdial-ios.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
